@@ -1,0 +1,119 @@
+[33mcommit 6a40e70862c657442cd01d9bebd7e7eb55509833[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Wed Mar 26 23:09:42 2025 +0200
+
+    new line for git gui
+
+[33mcommit ceede2090d80dfad2c572ae0ce09d56a2fc255fe[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d7b55f2 77a629e
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:51:24 2025 +0200
+
+    changes are approved
+
+[33mcommit d7b55f25f61449593eee5a65c2039fc245d2215b[m[33m ([m[1;31morigin/new_file_edit[m[33m, [m[1;32mnew_file_edit[m[33m)[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:49:00 2025 +0200
+
+    edit 2021
+
+[33mcommit 77a629e152b84e89003b26c468058bf443cf2b64[m
+Author: PIZDOLIZ222 <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:48:30 2025 +0200
+
+    Update edit 2021
+
+[33mcommit 1b138cb6ceb96efd4f1e7de3d2e584f8a55f1503[m
+Merge: 9f082e2 625a25f
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:45:17 2025 +0200
+
+    merge second_branch
+
+[33mcommit 9f082e2a7354d749a5c3a7a17526540546c7d2fb[m[33m ([m[1;31morigin/second_branch[m[33m, [m[1;32msecond_branch[m[33m)[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:41:00 2025 +0200
+
+    add second.file
+
+[33mcommit 625a25fe0ebb15d20e1f878b4bba202e58c5e7e5[m
+Author: PIZDOLIZ222 <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:38:40 2025 +0200
+
+    Create conflict branch
+    
+     conflict branch
+
+[33mcommit c0f46299a419300d7406047d0419e12fada9f71d[m[33m ([m[1;31morigin/first_branch[m[33m, [m[1;32mfirst_branch[m[33m)[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:31:34 2025 +0200
+
+    new branch commit
+
+[33mcommit 35d03e37e7bc6dd2d90941b768e494db9d673a16[m
+Merge: c995bdf 3a6f257
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:16:32 2025 +0200
+
+    test
+
+[33mcommit c995bdf567d4ff3f4dadd973141490afa3327a64[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:13:01 2025 +0200
+
+    test
+
+[33mcommit 3a6f257e271f1544b5f4183de5652313cb43d2b5[m
+Author: PIZDOLIZ222 <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:12:07 2025 +0200
+
+    Update file1.txt
+    
+    test
+
+[33mcommit ab4bd47986c43e5574215bd2b8968ec2e33d52f5[m
+Merge: eb9f20f 1ef2eb6
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:10:08 2025 +0200
+
+    merging
+
+[33mcommit 1ef2eb652f7fb477b6148753db66bce7bc4de6c4[m
+Author: PIZDOLIZ222 <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:00:45 2025 +0200
+
+    Create conflict
+    
+    conflict
+
+[33mcommit eb9f20f3830bbfffc78a10919a72a7d532d13228[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 23:00:13 2025 +0200
+
+    test
+
+[33mcommit bf33b596b45655bd93fe1cb1cd93c3293016a1e7[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 22:59:14 2025 +0200
+
+    new commit
+
+[33mcommit 6eaae6895e08b543181a4973fc3d9265efbb60ad[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 22:51:42 2025 +0200
+
+    new commit
+
+[33mcommit d5f8f8794268f94deace72e4a66e99aa901d29ac[m
+Author: PIZDOLIZ222 <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 22:36:46 2025 +0200
+
+    Update file1.txt
+    
+    add new line
+
+[33mcommit 5f2b46f111fe97e0bcc0d9cbda46e686d4e2d488[m
+Author: unknown <dacenkoo81@gmail.com>
+Date:   Tue Mar 25 22:31:24 2025 +0200
+
+    test commit 1
