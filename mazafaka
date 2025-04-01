@@ -1,0 +1,4 @@
+import webbrowser
+
+# Открытие вкладки Google
+webbrowser.open('https://www.google.com')
